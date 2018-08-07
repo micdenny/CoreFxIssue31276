@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreFxIssue31276", "CoreFxIssue31276\CoreFxIssue31276.csproj", "{14D51CA9-5E0B-458E-A284-2E2466FFDF20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullFxClassLibrary", "FullFxClassLibrary\FullFxClassLibrary.csproj", "{DB46065F-16EE-4879-A54A-8FDDEFECAB21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D51CA9-5E0B-458E-A284-2E2466FFDF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D51CA9-5E0B-458E-A284-2E2466FFDF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D51CA9-5E0B-458E-A284-2E2466FFDF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D51CA9-5E0B-458E-A284-2E2466FFDF20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB46065F-16EE-4879-A54A-8FDDEFECAB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB46065F-16EE-4879-A54A-8FDDEFECAB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB46065F-16EE-4879-A54A-8FDDEFECAB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB46065F-16EE-4879-A54A-8FDDEFECAB21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1744DFD-F534-488A-9F3C-752CF11C6536}
+	EndGlobalSection
+EndGlobal
